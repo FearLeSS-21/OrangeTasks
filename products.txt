@@ -1,0 +1,5 @@
+P1,Physical,ProductA,10.5,200000
+P2,Physical,ProductB,20.0,300
+P3,Physical,ProductC,15.0,150
+P4,Digital,ProductD,50.0,0
+P5,Physical,ProductE,5.0,500

@@ -1,0 +1,25 @@
+Vehicle: V1
+Total weight: 300kg
+Total price: $20.0
+Number of products: 1
+Transported products:
+  - ProductB (Weight: 300kg, Price: $20)
+Above Weight
+
+Vehicle: V2
+Total weight: 150kg
+Total price: $65.0
+Number of products: 2
+Transported products:
+  - ProductC (Weight: 150kg, Price: $15)
+  - ProductD (Weight: 0kg, Price: $50)
+
+Vehicle: V3
+Total weight: 800kg
+Total price: $25.0
+Number of products: 2
+Transported products:
+  - ProductE (Weight: 500kg, Price: $5)
+  - ProductB (Weight: 300kg, Price: $20)
+Above Weight
+
